@@ -1,66 +1,58 @@
-# Hi there, I'm Harikrishna D 👋
+# 👋 Hi there, I'm Harikrishna D
 
-**Software Developer | Java | Spring Boot | Backend Development | Open Source Contributor**
+I'm a **Software Developer** passionate about building scalable backend systems, contributing to open-source, and collaborating across teams to solve meaningful problems.
 
-📍 Bengaluru, India  
-📧 [harikrishna12524@gmail.com](mailto:harikrishna12524@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/harikrishnaengg)
+### 💼 About Me
 
----
+- 🧠 3+ years of experience in **Node.js**, **TypeScript**, **MySQL**, and **RESTful APIs**
+- 🔧 Skilled in developing **low-code/no-code platforms** and **internal developer platforms**
+- 🧪 Proficient in writing **unit & integration tests**, conducting code reviews, and ensuring clean architecture
+- 🌐 Basic frontend skills with **HTML5**, **CSS3**, **Bootstrap**, and **OpenUI5**
+- ☁️ Experience deploying services on **AWS EC2** and improving platform performance
+- 💬 Known for **problem solving**, strong **team collaboration**, and **attention to code quality**
 
-### 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-I am a Software Developer with **3+ years of experience** building robust backend services, RESTful APIs, and scalable platforms using **Java**, **Spring Boot**, **MySQL**, and more. I enjoy solving complex problems, writing clean and efficient code, and collaborating with cross-functional teams.
+**Languages:** JavaScript, TypeScript, Node.js, Core-Java, Python (for contributions)  
+**Frameworks & Tools:** Express.js, WebSocket, RequireJS, REST APIs, OpenUI5  
+**Database:** MySQL, RDBMS  
+**Cloud & DevOps:** AWS EC2, Bitbucket, JIRA, SVN, Git  
+**Testing & Monitoring:** JMeter (basics), Logging Systems  
+**Concepts:** Object-Oriented Programming, Code Reviews, Design Patterns
 
-I’m also an **active open-source contributor**, contributing to projects like **Apache Airflow**, where I’ve improved the Google Cloud Secret Manager backend by adding regional support.
+### 🚀 Recent Projects
 
----
+#### 🧱 Procify - Low-Code/No-Code Platform (2023–Present)
+- Reduced QA-raised issues by **90%** by redesigning the login/registration flow
+- Re-architected backend using **WebSockets**, centralized cache, and request load distribution
+- Built a secure **RBAC layer** on top of CRUD services to enable role-based multi-user access
+- Identified and resolved performance bottlenecks via **JMeter load testing** and profiling
 
-### 🛠️ Tech Skills
+#### 🏗 Klarion - Internal Developer Platform (2022–2023)
+- Improved and secured the **User Management Module** serving 5,000+ users
+- Designed multi-level **logging module** with cloud integration
+- Contributed to multiple feature rollouts and improved backend flow using Node.js, Java, and TypeScript
 
-- **Languages & Frameworks:** Java, Spring Boot, JDBC, JavaScript, OpenUI5 (basics)
-- **Databases:** MySQL, RDBMS
-- **Dev Tools & Practices:** Git, SVN, Maven, JMeter, Jira, Bitbucket, Code Reviews, Design Patterns, OOP, DSA
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, Wildfly, FCM, RESTful APIs, WebSockets
+### 🧑‍💻 Open Source Contributions
 
----
+**📦 Apache Airflow (Contributor)**  
+- 🛡️ Added **regional secret support** to the Google Cloud Secret Manager backend  
+- 🗣️ Collaborated with maintainers and addressed community feedback  
+- 🔗 [View Pull Request #52124](https://github.com/apache/airflow/pull/52124)
 
-### 💼 Work Experience
+### 🏆 Awards & Recognitions
 
-**Procify Innovations Pvt. Ltd.** — *Software Developer*  
-*Jul 2023 – Present*  
-- Built a configurable **Role Based Access Control (RBAC)** system.
-- Refactored web app client, reducing issue count by 90%.
-- Containerized and deployed Wildfly servers using Docker & Kubernetes on AWS.
-- Developed robust logging modules and optimized application performance.
-
-**Maventic Innovative Solutions Pvt. Ltd.** — *Software Developer*  
-*Mar 2022 – Jun 2023*  
-- Developed and enhanced **Internal Development Platform (Klarion)**.
-- Improved **User Management Module** for 5,000+ users.
-- Integrated **Firebase Cloud Messaging (FCM)** for real-time notifications.
-
----
-
-### 🌟 Open Source
-
-**Apache Airflow**  
-- Added **regional secret support** to the Google Cloud Secret Manager backend.  
-- Actively collaborate with core maintainers and the community.
-
-[Check out my Pull Request ➜](https://github.com/apache/airflow/pull/52124)
+- 🏅 **Above and Beyond Award** – for launching a complex offline upgrade without data loss @Procify
+- 🛠 **Problem Solver Award** – for swift issue resolution and backend reliability @Maventic
 
 ---
 
-### 🎓 Education
+### 📫 Let's Connect
 
-**Bachelor of Engineering** — CGPA: 9.67  
-*KPR Institute of Engineering and Technology, Coimbatore*
-
----
-
-### 📈 Let’s Connect!
-
-I’m always excited to connect with like-minded developers, discuss open-source ideas, and collaborate on impactful projects. Feel free to connect on [LinkedIn](https://linkedin.com/in/harikrishnaengg) or reach out via [email](mailto:harikrishna12524@gmail.com).
+- 📧 harikrishna12524@gmail.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/harikrishnaengg)  
+- 💻 [GitHub](https://github.com/harikrishna12524)
 
 ---
+
+> “Write clean code. Communicate clearly. Build things that last.”
